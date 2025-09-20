@@ -16,7 +16,7 @@ and a quick test example to verify your environment.
 | **RAM** | 16 GB |
 | **Storage** | 512 GB NVMe SSD (50 GB allocated for this project) |
 | **GPU** | NVIDIA GeForce RTX 3060 |
-| **Virtualization** | VirtualBox VM (4 vCPU allocated, 6 GB RAM assigned) |
+
 
 ✅ This configuration runs Yosys, Icarus Verilog, and GTKWave smoothly in a VirtualBox VM.
 
